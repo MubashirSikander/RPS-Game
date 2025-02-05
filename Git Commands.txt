@@ -1,0 +1,18 @@
+1. Git Configuration:
+git config --global user.name
+git config --global user.email
+
+Example:
+git config --global user.name Mubashir Sikander
+git config --global user.email muhammad.mubashirsikander@gmail.com
+
+2. Git Initialization:
+git init
+
+For checking hidden folders in current git repository use: ls -lart
+
+3. Creating file
+create file in current folder/repository via vs code
+
+4. Check status:
+git status // it returns status of files
